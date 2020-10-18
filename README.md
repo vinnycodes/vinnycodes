@@ -1,9 +1,9 @@
-<h2>Hi, I'm Vinny Nyamu! <img src="https://media.giphy.com/media/MdY3kF3CuMqbiaMY5B/source.gif" width="75"></h2>
+<h2>Hi, I'm Vinny Nyamu! <img src="https://media.giphy.com/media/MdY3kF3CuMqbiaMY5B/source.gif" width="50"></h2>
 
 <img align='right' src="./img/undraw_developer_activity_bv83.png" width="230">
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/vinny_codes?label=Follow)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vincentnyamu/)](https://www.linkedin.com/in/vincentnyamu/)
+[![Linkedin: Vincent](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vincentnyamu/)](https://www.linkedin.com/in/vincentnyamu/)
 ![GitHub followers](https://img.shields.io/github/followers/vinnycodes?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.vinnycodes.com)](https://www.vinnycodes.com)
 
