@@ -16,14 +16,14 @@ const Vinny = {
   askMeAbout: ["front end dev", "tech", "app dev", "photography"],
   technologies: {
         frontEnd: {
-            html: ["HTML5"]
-            js: ["ES6","React", "Redux", "GSAP"],
+            html: ["html5"]
+            js: ["es6","react", "redux", "gsap"],
             css: ["scss", "semantic ui", "bootstrap"]
         },
         backEnd: {
             js: ["node", "express"],
         },
-        databases: ["mongo", "MySql",],
+        databases: ["mongo", "mysql",],
         misc: ["heroku", "aws"]
     },
  currentFocus: "Design Patterns",
