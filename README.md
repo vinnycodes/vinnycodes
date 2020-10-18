@@ -17,7 +17,7 @@ const Vinny = {
   technologies: {
         frontEnd: {
             html: ["HTML5"]
-            js: ["React", "Redux", "GSAP"],
+            js: ["ES6","React", "Redux", "GSAP"],
             css: ["scss", "semantic ui", "bootstrap"]
         },
         backEnd: {
