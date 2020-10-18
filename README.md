@@ -1,4 +1,4 @@
-<h2>Hi, I'm Vinny Nyamu! <img src="https://media.giphy.com/media/MdY3kF3CuMqbiaMY5B/source.gif" width="50"></h2>
+<h2>Hi, I'm Vinny Nyamu!<img src="https://media.giphy.com/media/MdY3kF3CuMqbiaMY5B/source.gif" width="50"></h2>
 
 <img align='right' src="./img/undraw_developer_activity_bv83.png" width="230">
 
