@@ -30,6 +30,13 @@ const Vinny = {
 }
 ```
 
+## Values
+
+🌱 Consistent Committed Growth
+🗓 Habits > Goals
+🌎 We > Me
+💫 Sky's The Limit
+
 ## Hobbies
 
 📖 Ardent Learner <br/>
