@@ -7,7 +7,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/vinnycodes?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.vinnycodes.com)](https://www.vinnycodes.com)
 
-### <img src="https://media.giphy.com/media/S6wZNBvZjP69qkOobo/source.gif" width="50"> So about me...
+### So about me...<img src="https://media.giphy.com/media/S6wZNBvZjP69qkOobo/source.gif" width="50">
 
 ```javascript
 const Vinny = {
