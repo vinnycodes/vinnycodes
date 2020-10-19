@@ -49,3 +49,6 @@ const Vinny = {
 - [Instagram](https://www.instagram.com/vinnycodes) <br/>
 - [Linkedin](https://www.linkedin.com/in/vincentnyamu/) <br/>
 - [Twitter](https://twitter.com/vinny_codes) <br/>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
