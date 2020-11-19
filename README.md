@@ -11,7 +11,7 @@
 
 ```javascript
 const Vinny = {
-  fullName: "Vincent Nyamu
+  fullName: "Vincent Nyamu"
   pronouns: "He" | "Him",
   askMeAbout: ["front end dev", "tech", "app dev", "photography"],
   technologies: {
