@@ -16,7 +16,7 @@ const Vinny = {
   askMeAbout: ["front end dev", "tech", "app dev", "photography"],
   technologies: {
         frontEnd: {
-            html: ["html5"]
+            html: ["html5"],
             js: ["es6","react", "redux", "gsap"],
             css: ["scss", "semantic ui", "bootstrap"]
         },
