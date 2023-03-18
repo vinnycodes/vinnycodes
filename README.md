@@ -17,16 +17,17 @@ const Vinny = {
   technologies: {
         frontEnd: {
             html: ["html5"],
-            js: ["es6","react", "redux", "gsap"],
-            css: ["scss", "semantic ui", "bootstrap"]
+            js: ["es6", "typescript", "nextjs", "vue", "react", "redux", "gsap", "motion"],
+            css: ["scss", "tailwind", "semantic ui", "bootstrap"]
         },
         backEnd: {
-            js: ["node", "express"],
+            js: ["nodejs", "express", "mongoose],
         },
         databases: ["mongo", "mysql",],
-        misc: ["heroku", "aws"]
+        misc: ["heroku", "aws", "storybook", "git"]
     },
- currentFocus: "Design Patterns",
+ currentFocus: ["Design Patterns", "Data Structures & Algorithms"],
+ futureFocus: ["Vim Motions"]
 }
 ```
 
